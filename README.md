@@ -13,8 +13,9 @@
 
 **Connect with me**
 
-[![website](./assets/twitter.svg)](https://twitter.com/rezuanul_fahim)
-&nbsp;&nbsp;
-[![website](./assets/linkedin.svg)](https://www.linkedin.com/in/rezuanul-islam-fahim)
-&nbsp;&nbsp;
-[![website](./assets/stack-overflow.svg)](https://stackoverflow.com/users/9407562/rezuanul-islam-fahim)
+<a href="https://twitter.com/rezuanul_fahim" target="blank"><img align="center" src="./assets/twitter.svg" alt="rezuanul-islam-fahim" height="30" /></a>
+<a href="https://www.linkedin.com/in/rezuanul-islam-fahim" target="blank"><img align="center" src="./assets/linkedin.svg" alt="rezuanul-islam-fahim" height="30" /></a>
+<a href="https://stackoverflow.com/users/9407562/rezuanul-islam-fahim" target="blank"><img align="center" src="./assets/stack-overflow.svg" alt="rezuanul-islam-fahim" height="30" /></a>
+
+<br/>
+<br/>
