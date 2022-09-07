@@ -1,4 +1,5 @@
 ## Hi there, I'm Rezuanul Islam Fahim
+<br/>
 
 ### About Me
 
@@ -10,12 +11,14 @@
 - Currently working with Dart & Flutter
 - Love to code in C++, Dart, Python and TypeScript
 - Love to learn new things
+<br/>
 
 ### Connect with me
 
 <a href="https://twitter.com/rezuanul_fahim" target="_blank"><img align="center" src="./assets/twitter.svg" alt="rezuanul-islam-fahim" height="30" /></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rezuanul-islam-fahim" target="_blank"><img align="center" src="./assets/linkedin.svg" alt="rezuanul-islam-fahim" height="30" /></a> &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/9407562/rezuanul-islam-fahim" target="_blank"><img align="center" src="./assets/stack-overflow.svg" alt="rezuanul-islam-fahim" height="30" /></a>
+<br/>
 
 ### Languages & Tools
 
@@ -46,16 +49,16 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;&nbsp;
-<a href="https://material.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://material.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> </a>
+<br/>
 
 ### Github Stats
 
-<a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> <br/> </a> <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact&theme=dracula" /> </a> <br/>
+<a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> <br/> <br/> </a> <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact&theme=dracula" /> </a> <br/> <br/>
 
 ### Github Contribution Graph
 
 <img alt="Rezuanul Islam Fahim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rezuanul-Islam-Fahim&theme=github&area=true" width="100%" />
 
 
-<br/>
 <br/>
