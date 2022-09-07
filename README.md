@@ -1,4 +1,4 @@
-## Hi there, I'm Rezuanul Islam Fahim
+# Hi there, I'm Rezuanul Islam Fahim
 
 ### About Me
 
@@ -52,11 +52,8 @@
 
 ### Github Stats
 
-<a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> <br/> <br/> </a> <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact&theme=dracula" /> </a> <br/>
+<a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> <br/> <br/> </a> <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact&theme=dracula&hide=html,css" /> </a> <br/>
 
 ### Github Contribution Graph
 
-<img alt="Rezuanul Islam Fahim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rezuanul-Islam-Fahim&theme=github&area=true" width="100%" />
-
-
-<br/>
+<a href="https://github.com/Rezuanul-Islam-Fahim"> <img alt="Rezuanul Islam Fahim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rezuanul-Islam-Fahim&theme=github&area=true" width="100%" /> </a>
