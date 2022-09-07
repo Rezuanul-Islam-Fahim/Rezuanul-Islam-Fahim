@@ -1,5 +1,4 @@
 ## Hi there, I'm Rezuanul Islam Fahim
-<br/>
 
 ### About Me
 
@@ -11,7 +10,6 @@
 - Currently working with Dart & Flutter
 - Love to code in C++, Dart, Python and TypeScript
 - Love to learn new things
-<br/>
 
 ### Connect with me
 
@@ -54,7 +52,7 @@
 
 ### Github Stats
 
-<a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> <br/> <br/> </a> <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact&theme=dracula" /> </a> <br/> <br/>
+<a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> <br/> <br/> </a> <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact&theme=dracula" /> </a> <br/>
 
 ### Github Contribution Graph
 
