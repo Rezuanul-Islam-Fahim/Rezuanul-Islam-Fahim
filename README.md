@@ -1,6 +1,6 @@
 ## Hi there, I'm Rezuanul Islam Fahim
 
-**About Me**
+### About Me
 
 - Professional software developer
 - 7+ years of experience in development field
@@ -11,13 +11,13 @@
 - Love to code in C++, Dart, Python and TypeScript
 - Love to learn new things
 
-**Connect with me**
+### Connect with me
 
 <a href="https://twitter.com/rezuanul_fahim" target="_blank"><img align="center" src="./assets/twitter.svg" alt="rezuanul-islam-fahim" height="30" /></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rezuanul-islam-fahim" target="_blank"><img align="center" src="./assets/linkedin.svg" alt="rezuanul-islam-fahim" height="30" /></a> &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/9407562/rezuanul-islam-fahim" target="_blank"><img align="center" src="./assets/stack-overflow.svg" alt="rezuanul-islam-fahim" height="30" /></a>
 
-**Languages & Tools**
+### Languages & Tools
 
 <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> &nbsp;&nbsp;
@@ -47,6 +47,10 @@
 <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://material.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> </a> &nbsp;&nbsp;
+
+### Github Stats
+
+<img align="left" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true" />
 
 <br/>
 <br/>
