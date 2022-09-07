@@ -50,11 +50,11 @@
 
 ### Github Stats
 
-<a style="margin-bottom:20" href="https://github.com/Rezuanul-Islam-Fahim"> <img align="left" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true" /> </a> <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="left" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact" /> </a>
+<a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> <br/> </a> <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact&theme=dracula" /> </a> <br/>
 
 ### Github Contribution Graph
 
-<img alt="Rezuanul Islam Fahim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rezuanul-Islam-Fahim&area=true" width="100%"  />
+<img alt="Rezuanul Islam Fahim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rezuanul-Islam-Fahim&theme=github&area=true" width="100%" />
 
 
 <br/>
