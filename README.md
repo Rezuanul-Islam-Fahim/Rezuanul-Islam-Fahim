@@ -50,7 +50,7 @@
 
 ### Github Stats
 
-<a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="left" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true&hide=contribs" width="300" /> </a> <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="left" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact" /> </a>
+<a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="left" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true&hide=contribs" width="500" /> </a> <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="left" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact" /> </a>
 
 <br/>
 <br/>
