@@ -56,7 +56,7 @@
 <br/> <br/> 
 <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://streak-stats.demolab.com?user=Rezuanul-Islam-Fahim&theme=dracula" /> </a>
  <br/> <br/> 
- <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact&theme=dracula&hide=html,css,cmake,php,ipynb" /> </a>
+ <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact&theme=dracula&hide=html,css,cmake,php,jupyter%20notebook" /> </a>
  <br/>
 
 ### Github Contribution Graph
