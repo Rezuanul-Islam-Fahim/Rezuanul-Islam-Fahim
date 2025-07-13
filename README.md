@@ -3,7 +3,7 @@
 ### About Me
 
 - Professional software developer
-- 7+ years of experience in development field
+- 10+ years of experience in development field
 - Web & Mobile application developer
 - Good at both Front-End & Back-End development
 - Learning Algorithms & Data-Structures
