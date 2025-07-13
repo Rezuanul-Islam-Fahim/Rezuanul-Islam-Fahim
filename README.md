@@ -48,17 +48,3 @@
 <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://material.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> </a>
-<br/>
-
-### Github Stats
-
-<a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> </a> 
-<br/> <br/> 
-<a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://streak-stats.demolab.com?user=Rezuanul-Islam-Fahim&theme=dracula" /> </a>
- <br/> <br/> 
- <a href="https://github.com/Rezuanul-Islam-Fahim"> <img align="center" alt="Rezuanul-Islam-Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact&theme=dracula&hide=html,css,cmake,php,jupyter%20notebook" /> </a>
- <br/>
-
-### Github Contribution Graph
-
-<a href="https://github.com/Rezuanul-Islam-Fahim"> <img alt="Rezuanul Islam Fahim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rezuanul-Islam-Fahim&theme=github&area=true" width="100%" /> </a>
