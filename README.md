@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Rezuanul Islam Fahim
+# 🌟 Hi there, I'm Rezuanul Islam Fahim
 
-### 👨‍💻 Full Stack Software Engineer | Flutter Expert | MERN Enthusiast
+### 💻 Full Stack Software Engineer | Flutter Expert | MERN Enthusiast
 
 I'm a passionate software engineer with over 10 years of experience, building performant, scalable, and maintainable applications across both web and mobile. I specialize in full-stack development using **Flutter**, **Firebase**, and the **MERN stack**, with a strong focus on clean architecture and modern design patterns.
 
@@ -8,11 +8,11 @@ I'm a passionate software engineer with over 10 years of experience, building pe
 
 ### 🚀 About Me
 
-- 👨‍💻 10+ years of experience in software development  
+- ⏳ 10+ years of experience in software development  
 - 🌐 Full-stack expertise: **MERN**, **Laravel + PHP**, **TypeScript/JavaScript**  
 - 📱 6 years of production-grade experience in **Flutter** & **Firebase**  
 - 🔥 Proficient in **Cloud Functions**, Firestore, and other Firebase tools  
-- 🧱 Follows **Clean Architecture**, **SOLID principles**, **MVVM**, **MVC**, **MVP**  
+- 🧱 Follows **Clean Architecture**, **SOLID principles**, **MVVM**, **MVC**
 - 🎯 Skilled in both **Frontend** and **Backend** with strong API development experience  
 - 🚀 Always learning, always evolving  
 
