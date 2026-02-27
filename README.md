@@ -45,8 +45,6 @@ Currently, I am pursuing my BSc in Computer Science and Engineering at AIUB. Whi
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-[![Rezuanul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&theme=radium&hide_border=true&cache_seconds=86400)](https://github.com/Rezuanul-Islam-Fahim)
 
 [![Rezuanul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rezuanul-Islam-Fahim&theme=radium&hide_border=true)](https://github.com/Rezuanul-Islam-Fahim)
 
