@@ -37,7 +37,7 @@ Currently, I am pursuing my BSc in Computer Science and Engineering at AIUB. Whi
 - **DevOps & Deployment:** CI/CD pipelines, Dokploy, GitHub Actions, Ubuntu server management
 
 #### 🏗️ Architecture & System Design
-- **Patterns & Principles:** Clean Architecture, Domain-Driven Design (DDD), SOLID, MVVM, MVC, DTOs
+- **Patterns & Principles:** Clean Architecture, Domain-Driven Design (DDD), SOLID, MVVM, MVC
 - **Focus Areas:** Scalable System Design, Custom API Development, End-to-End Encryption, Custom UI/UX design
 
 ---
@@ -47,6 +47,7 @@ Currently, I am pursuing my BSc in Computer Science and Engineering at AIUB. Whi
 <div align="center">
 
 [![Rezuanul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rezuanul-Islam-Fahim&theme=radium&hide_border=true)](https://github.com/Rezuanul-Islam-Fahim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuanul-Islam-Fahim&layout=compact&theme=radium&hide_border=true)](https://github.com/Rezuanul-Islam-Fahim)
 
 </div>
 
