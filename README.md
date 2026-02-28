@@ -47,7 +47,7 @@ Currently, I am pursuing my BSc in Computer Science and Engineering at AIUB. Whi
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&theme=radium&hide_border=true" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezuanul-Islam-Fahim&theme=radium&hide_border=true" alt="Rezuanul's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezuanul-Islam-Fahim&layout=compact&theme=radium&hide_border=true&hide=jupyter%20notebook,html,css&cache_seconds=86400" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezuanul-Islam-Fahim&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css&cache_seconds=86400" alt="Top Langs" />
 </div>
 
 ---
