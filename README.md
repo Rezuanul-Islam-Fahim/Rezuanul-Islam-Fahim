@@ -123,9 +123,9 @@ Currently, I am pursuing my BSc in Computer Science and Engineering at AIUB. Whi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&theme=radium&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezuanul-Islam-Fahim&theme=radium&hide_border=true" alt="Rezuanul's GitHub Streak" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Rezuanul-Islam-Fahim&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rezuanul-Islam-Fahim&show_icons=true&theme=github_dark&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezuanul-Islam-Fahim&theme=github_dark&hide_border=true" alt="Rezuanul's GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Rezuanul-Islam-Fahim&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css&theme=github_dark" alt="Top Langs" />
 </div>
 
 ---
