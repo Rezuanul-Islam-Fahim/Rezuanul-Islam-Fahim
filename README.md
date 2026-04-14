@@ -1,5 +1,9 @@
 # 🌟 Hi there, I'm Rezuanul Islam Fahim
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rezuanul-Islam-Fahim&label=Profile%20Views&color=255E63&style=for-the-badge" alt="Profile Views Counter" />
+</div>
+
 ### 💻 Full Stack Software Engineer | SaaS & MVP Specialist | Flutter Expert
 
 I am a passionate software engineer, a **Top-Rated Upwork Freelancer**, and an advocate for clean, scalable code. With over 8 years of hands-on experience building performant applications for clients globally, I specialize in taking ideas from concept to production. 
