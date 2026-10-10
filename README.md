@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Rezuanul Islam Fahim
+# Hi, I'm Rezuanul Islam Fahim
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Rezuanul-Islam-Fahim&label=Profile%20Views&color=255E63&style=for-the-badge" alt="Profile Views Counter" />
 </div>
 
-### Backend Engineer | Node.js, Python & System Design
+### Backend Engineer | Node.js, System Design & DevOps
 
-I'm a software engineer and **Top-Rated Upwork Freelancer** with 8+ years of hands-on experience building production-ready applications for clients worldwide. I focus on designing maintainable backend systems, developing reliable APIs, and building scalable SaaS platforms.
+I'm a software engineer and Top-Rated Upwork Freelancer with 8+ years of experience in software development, building and delivering production-ready applications for clients worldwide. I focus on designing maintainable backend systems, developing reliable APIs, and building scalable SaaS platforms.
 
 My primary backend stack is **TypeScript, Node.js, Express.js, Python, and FastAPI**, backed by PostgreSQL, Redis, and MongoDB. I care about clean architecture, thoughtful database design, security, performance, and writing software that remains maintainable as a product grows.
 
@@ -56,26 +56,31 @@ I also work with **React, Next.js, and Flutter** to deliver complete product exp
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Architecture & Engineering**
+**Architecture, Design Patterns & Engineering Practices**
 
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-455A64?style=for-the-badge)
-![DDD](https://img.shields.io/badge/Domain--Driven%20Design-5C6BC0?style=for-the-badge)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-546E7A?style=for-the-badge)
+![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven%20Design-5C6BC0?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-6A1B9A?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-607D8B?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-6A1B9A?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-00897B?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-1565C0?style=for-the-badge)
 
 **DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2671E5?style=for-the-badge)
 
 **AI-Assisted Development**
 
+![OpenCode](https://img.shields.io/badge/OpenCode-1A1A1A?style=for-the-badge&logo=opencode&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-8A2BE2?style=for-the-badge)
@@ -92,8 +97,9 @@ I also work with **React, Next.js, and Flutter** to deliver complete product exp
 #### ⚙️ Backend Engineering
 - **Technologies:** TypeScript, JavaScript, Node.js, Express.js, Python, FastAPI
 - **API Development:** REST APIs, GraphQL, request validation, authentication, authorization, and API integrations
-- **Application Design:** Clean Architecture, Domain-Driven Design (DDD), SOLID principles, and modular application structure
 - **Engineering Priorities:** Maintainability, security, reliability, testability, performance, and clear separation of responsibilities
+- **Architecture & Design:** Clean Architecture, Hexagonal Architecture (Ports & Adapters), Domain-Driven Design (DDD), CQRS, SOLID principles, and modular monoliths.
+- **Engineering Practices:** Agile software development, Scrum, iterative delivery, code reviews, automated testing, and collaborative development.
 
 #### 🗄️ Data & Performance
 - **Databases:** PostgreSQL, MongoDB, MySQL, SQLite
@@ -106,9 +112,9 @@ I also work with **React, Next.js, and Flutter** to deliver complete product exp
 - **Core Strengths:** Offline-first mobile architectures, background synchronization, scalable client-server integration, and responsive product experiences
 
 #### 🚢 DevOps & Deployment
-- **Containerization & CI/CD:** Docker, GitHub Actions
-- **Infrastructure:** Ubuntu, Linux server administration, Nginx, Cloudflare
-- **Focus Areas:** Deployment automation, environment configuration, reverse proxies, application reliability, and production troubleshooting
+- **Containerization & CI/CD:** Docker, Docker Compose, GitHub Actions
+- **Infrastructure:** Ubuntu, Linux server administration, Nginx
+- **Focus Areas:** Containerized deployments, deployment automation, environment configuration, reverse proxies, application reliability, and production troubleshooting
 
 ---
 
