@@ -4,15 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=Rezuanul-Islam-Fahim&label=Profile%20Views&color=255E63&style=for-the-badge" alt="Profile Views Counter" />
 </div>
 
-### Backend-Focused Software Engineer | Node.js, Python & System Design
+### Backend Engineer | Node.js, Python & System Design
 
 I'm a software engineer and **Top-Rated Upwork Freelancer** with 8+ years of hands-on experience building production-ready applications for clients worldwide. I focus on designing maintainable backend systems, developing reliable APIs, and building scalable SaaS platforms.
 
 My primary backend stack is **TypeScript, Node.js, Express.js, Python, and FastAPI**, backed by PostgreSQL, Redis, and MongoDB. I care about clean architecture, thoughtful database design, security, performance, and writing software that remains maintainable as a product grows.
 
 I also work with **React, Next.js, and Flutter** to deliver complete product experiences, from backend services to web interfaces and cross-platform mobile applications.
-
-🌐 **Portfolio:** [rezuanulislamfahim.me](https://rezuanulislamfahim.me/)
 
 ---
 
@@ -21,7 +19,7 @@ I also work with **React, Next.js, and Flutter** to deliver complete product exp
 - 🔭 **Currently working on:** Backend services, SaaS platforms, API development, and production-ready application architecture.
 - 🌱 **Currently exploring:** Distributed systems, advanced PostgreSQL and Redis patterns, system design, and AI-assisted software engineering.
 - 🤝 **Open for:** Backend engineering opportunities, SaaS MVP development, API integrations, and full-stack product collaborations.
-- ⚡ **Fun Fact:** Outside application development, I enjoy studying system design, exploring end-to-end encryption, and experimenting with Linux infrastructure and DevOps tools.
+- ⚡ **Fun Fact:** Outside application development, I enjoy studying system design and experimenting with Linux infrastructure and DevOps tools.
 
 ---
 
@@ -34,7 +32,6 @@ I also work with **React, Next.js, and Flutter** to deliver complete product exp
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Backend Development**
@@ -58,9 +55,6 @@ I also work with **React, Next.js, and Flutter** to deliver complete product exp
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-03599C?style=for-the-badge&logo=flutter&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-37474F?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Architecture & Engineering**
 
@@ -82,10 +76,8 @@ I also work with **React, Next.js, and Flutter** to deliver complete product exp
 
 **AI-Assisted Development**
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-FF4500?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-8A2BE2?style=for-the-badge)
 
 **Developer Tools**
